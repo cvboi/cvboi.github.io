@@ -6,7 +6,7 @@
   <link href="https://explee.cn/atom.xml" rel="self"/>
   
   <link href="https://explee.cn/"/>
-  <updated>2022-07-26T20:37:08.368Z</updated>
+  <updated>2022-07-31T17:18:59.367Z</updated>
   <id>https://explee.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Archlinux基础安装配置</title>
+    <link href="https://explee.cn/posts/9458ad0e.html"/>
+    <id>https://explee.cn/posts/9458ad0e.html</id>
+    <published>2020-06-18T12:10:55.000Z</published>
+    <updated>2022-07-31T17:18:59.367Z</updated>
+    
+    
+    <summary type="html">Archlinux 基础安装配置「物理装机 UEFI + GPT」，不包含 KDE 桌面环境</summary>
+    
+    
+    
+    <category term="Linux" scheme="https://explee.cn/categories/Linux/"/>
+    
+    
+    <category term="Linux" scheme="https://explee.cn/tags/Linux/"/>
+    
+    <category term="Arch" scheme="https://explee.cn/tags/Arch/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
